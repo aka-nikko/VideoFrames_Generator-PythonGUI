@@ -29,21 +29,21 @@
 
 ## Screenshots
 ### GUI
-<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/GUI.png" width="50%">
+<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/GUI.png" width="30%">
 
 ### Select Video and Output Folder
-<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/select.png" width="50%">
+<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/select.png" width="30%">
 
 ### Generate Frames
-<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/generate.png" width="50%">
+<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/generate.png" width="30%">
 
 ### Random Frame
-<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/random_img.png" width="50%">
+<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/random_img.png" width="30%">
 
 ### Exception Handling
-<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/exception.png" width="50%">
+<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/exception.png" width="30%">
 
 ### Frames
-<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/frames.png" width="50%">
+<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/frames.png" width="80%">
 
 
