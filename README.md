@@ -32,7 +32,7 @@
 <img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/GUI.png" width="30%">
 
 ### Select Video and Output Folder
-<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/select.png" width="30%">
+<img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/select1.png" width="30%">
 
 ### Generate Frames
 <img src="https://github.com/aka-nikko/VideoFrames_Generator-PythonGUI/blob/master/screenshots/generate.png" width="30%">
